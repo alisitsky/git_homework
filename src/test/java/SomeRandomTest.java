@@ -7,7 +7,7 @@ public class SomeRandomTest {
     @Test
     public void testExample() {
 
-        open("https://yandex.ru");
+        open("https://duckduckgo.com/");
         
     }
 }
